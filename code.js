@@ -1,4 +1,4 @@
-const FILEURL = 'tracker-task-installer.exe';
+const FILEURL = 'https://github.com/Largogus/TrackerTaskWeb/releases/download/Test/tracker-task-installer.exe';
 
 const devloper = document.getElementById('devloper').addEventListener('click', function() {
     window.location.href = 'https://largen.ru';
